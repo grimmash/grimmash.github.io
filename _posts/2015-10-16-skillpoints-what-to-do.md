@@ -6,7 +6,11 @@ author: grimmash@gmail.com
 comments: true
 categories: [Uncategorized]
 ---
-CCP dropped a <a href="http://community.eveonline.com/news/dev-blogs/exploring-the-character-bazaar-skill-trading/">dev blog</a>.  It's a bit of a doozy, or nothing all that important.  Since I am writing today, you can safely assume I think it is a bit of a doozy.  At the core, the dev blog proposes that players be allowed, for a fee in Aurum, to take skillpoints out of their characters, and then sell the resulting skillpoints on the market for isk.  I am not a huge fan of this, and said so in the threadnaught.  But I want to explore the reasons behind my opinion.<a href="http://grimmash.com/wp-content/uploads/2015/10/learningcurve1.jpg"><img class="aligncenter size-medium wp-image-608" src="http://grimmash.com/wp-content/uploads/2015/10/learningcurve1-300x291.jpg" alt="Eve Learning Curve" width="300" height="291" /></a>The image above is a bit of online gaming culture at this point.  The point is that Eve is really hard to learn.  That has not changed much in the last few years.  But that graph isn't really relevant to the discussion of skillpoints (SP) in Eve.  A more appropriate image would be this:
+CCP dropped a <a href="http://community.eveonline.com/news/dev-blogs/exploring-the-character-bazaar-skill-trading/">dev blog</a>.  It's a bit of a doozy, or nothing all that important.  Since I am writing today, you can safely assume I think it is a bit of a doozy.  At the core, the dev blog proposes that players be allowed, for a fee in Aurum, to take skillpoints out of their characters, and then sell the resulting skillpoints on the market for isk.  I am not a huge fan of this, and said so in the threadnaught.  But I want to explore the reasons behind my opinion.
+
+<a href="http://grimmash.com/wp-content/uploads/2015/10/learningcurve1.jpg"><img class="aligncenter size-medium wp-image-608" src="http://grimmash.com/wp-content/uploads/2015/10/learningcurve1-300x291.jpg" alt="Eve Learning Curve" width="300" height="291" /></a>
+
+The image above is a bit of online gaming culture at this point.  The point is that Eve is really hard to learn.  That has not changed much in the last few years.  But that graph isn't really relevant to the discussion of skillpoints (SP) in Eve.  A more appropriate image would be this:
 
 <a href="http://grimmash.com/wp-content/uploads/2015/10/Sp-by-year.png"><img class="aligncenter size-medium wp-image-610" src="http://grimmash.com/wp-content/uploads/2015/10/Sp-by-year-300x160.png" alt="Sp by year" width="300" height="160" /></a>
 
