@@ -1,0 +1,9 @@
+---
+layout: post
+title: Day 6: 30 Day Market Challenge
+date: 2012-04-18 03:21
+author: grimmash@gmail.com
+comments: true
+categories: [30 Day Challenge, Economy, Trading]
+---
+Results:<br /><div style="clear: both; text-align: center;"><a href="http://grimmash.com/wp-content/uploads/2012/04/Day-61.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://grimmash.com/wp-content/uploads/2012/04/Day-61.png" /></a></div>Back on track, although a few things are still staying more tied up than I would like. &nbsp;A few nice margin orders that should reap good rewards should I get them, and a few items that are of such low value that I am letting the orders just run in case the markets swings back in my favor.<br /><br />I am rapidly reaching the point where simply doing market triage on margins and updating orders is becoming far more time consuming. &nbsp;The isk per real time I spend in the game is not quite what I would get from, say, missioning over the same period. &nbsp;One hour with 1 or two mineral checks is not equivalent to one hour of blasting through L4s on my combat character. &nbsp;With current mineral prices, I am also better off just semi-afk mining when I am at home. &nbsp;That is to say, my velocity of money has hit a bit of a (personal) ceiling, in that to increase it anymore, I would need to devote more time, and have orders move quicker due to other players.<br /><br />This brings up an interesting quandry: &nbsp;Due to my self imposed rules, is it acceptable for me to venture out of the station for trade-only related activities, like regional arbitrage? &nbsp;And will it make me enough money to be worth the extra time I cannot spend managing orders? &nbsp;I have not decided.<br /><br />Tomorrow will likely be slow along with the weekend, as I will have a much busier schedule and will not be able to monitor orders as much. &nbsp;I predict a rather flat Day 7.

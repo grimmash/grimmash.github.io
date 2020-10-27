@@ -1,0 +1,9 @@
+---
+layout: post
+title: Day 7: 30 Day Market Challenge
+date: 2012-04-19 03:54
+author: grimmash@gmail.com
+comments: true
+categories: [30 Day Challenge, Economy, Trading]
+---
+Results:<br /><div style="clear: both; text-align: center;"><a href="http://grimmash.com/wp-content/uploads/2012/04/Day-71.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://grimmash.com/wp-content/uploads/2012/04/Day-71.png" /></a></div>Late post, but I pulled the numbers at the same time as every other day. I can lose money on the market! &nbsp;How I did this is simple. &nbsp;I bought too many (~50) items at a price that gave a total margin of about 36 million. &nbsp;Someone came in and placed 200+ at a price that halved that margin, so my sell orders fell by 18 mil. &nbsp;I managed to recoup about 3 mil during my limited time today.<br /><br />Lesson 1: &nbsp;Reported sell values are not how much you actually have in the bank!<br /><br />The underlying problem was that I assumed that buy and sell orders will only move in small increments. &nbsp;But sometimes someone comes in and crashes the sell price or inflates the buy price. &nbsp;Smaller inventory and smaller batches can help you avoid this if you cannot do the same, or are looking for short term profits as opposed to longer term investments.<br /><br />Lesson 2: Don't count on prices being stable.<br /><br />I also pruned my buy orders (lost broker's fees), consolidated inventory in to sell orders (new broker's fees), and reallocated my buy orders to items that have lower margins but move a little faster. &nbsp;In the last three hours I recouped another 8 mil, so things should be back on track.<br /><br />Lesson 3: &nbsp;Sometimes you have to give up a few high value, high margin orders to increase the velocity of isk.
