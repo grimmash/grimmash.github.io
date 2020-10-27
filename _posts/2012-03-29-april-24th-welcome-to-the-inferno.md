@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April 24th: Welcome to the Inferno
+title: April 24th - Welcome to the Inferno
 date: 2012-03-29 19:55
 author: grimmash@gmail.com
 comments: true

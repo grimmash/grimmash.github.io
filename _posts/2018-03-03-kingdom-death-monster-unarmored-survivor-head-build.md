@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kingdom Death: Monster - Unarmored Survivor Head Build
+title: Kingdom Death Monster - Unarmored Survivor Head Build
 date: 2018-03-03 17:45
 author: grimmash@gmail.com
 comments: true

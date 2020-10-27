@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 27: 30 Day Market Challenge
+title: Day 27 of 30 Day Market Challenge
 date: 2012-05-08 23:31
 author: grimmashauthor
 comments: true

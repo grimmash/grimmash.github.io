@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 23 to 25: 30 Day Market Challenge
+title: Day 23 to 25 of 30 Day Market Challenge
 date: 2012-05-07 18:58
 author: grimmashauthor
 comments: true

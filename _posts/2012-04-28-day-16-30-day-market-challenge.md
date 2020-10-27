@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 16: 30 Day Market Challenge
+title: Day 16 of 30 Day Market Challenge
 date: 2012-04-28 16:26
 author: grimmashauthor
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction Warfare: Questions
+title: Faction Warfare - Questions
 date: 2012-09-24 16:36
 author: grimmashauthor
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 26: 30 Day Market Challenge
+title: Day 26 of 30 Day Market Challenge
 date: 2012-05-08 02:15
 author: grimmashauthor
 comments: true

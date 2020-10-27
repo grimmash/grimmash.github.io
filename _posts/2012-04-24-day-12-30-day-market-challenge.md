@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 12: 30 Day Market Challenge
+title: Day 12 of 30 Day Market Challenge
 date: 2012-04-24 01:06
 author: grimmash@gmail.com
 comments: true

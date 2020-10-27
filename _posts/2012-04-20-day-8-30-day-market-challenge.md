@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 8: 30 Day Market Challenge
+title: Day 8 of 30 Day Market Challenge
 date: 2012-04-20 00:06
 author: grimmash@gmail.com
 comments: true

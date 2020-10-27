@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 9: 30 Day Market Challenge
+title: Day 9 of 30 Day Market Challenge
 date: 2012-04-20 22:34
 author: grimmash@gmail.com
 comments: true

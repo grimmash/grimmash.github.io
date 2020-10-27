@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 21: 30 Day Market Challenge
+title: Day 21 of 30 Day Market Challenge
 date: 2012-05-03 02:02
 author: grimmashauthor
 comments: true

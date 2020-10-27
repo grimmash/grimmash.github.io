@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSM7: The Blanding
+title: CSM7 - The Blanding
 date: 2012-02-06 15:26
 author: grimmash@gmail.com
 comments: true

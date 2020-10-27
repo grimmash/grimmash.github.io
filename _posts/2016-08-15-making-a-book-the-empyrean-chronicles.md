@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making a Book: The Empyrean Chronicles
+title: Making a Book - The Empyrean Chronicles
 date: 2016-08-15 22:46
 author: grimmash@gmail.com
 comments: true

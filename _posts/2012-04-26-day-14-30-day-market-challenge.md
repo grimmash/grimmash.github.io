@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 14: 30 Day Market Challenge
+title: Day 14 of 30 Day Market Challenge
 date: 2012-04-26 03:54
 author: grimmashauthor
 comments: true

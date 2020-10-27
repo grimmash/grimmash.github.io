@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanfest 2014:  TwitchTV
+title: Fanfest 2014 and TwitchTV
 date: 2014-05-04 17:18
 author: grimmash@gmail.com
 comments: true

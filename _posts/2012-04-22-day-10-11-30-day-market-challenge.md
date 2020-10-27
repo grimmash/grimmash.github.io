@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 10 & 11: 30 Day Market Challenge
+title: Day 10 and 11 of 30 Day Market Challenge
 date: 2012-04-22 23:57
 author: grimmash@gmail.com
 comments: true

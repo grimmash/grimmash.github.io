@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 7: 30 Day Market Challenge
+title: Day 7 of 30 Day Market Challenge
 date: 2012-04-19 03:54
 author: grimmash@gmail.com
 comments: true

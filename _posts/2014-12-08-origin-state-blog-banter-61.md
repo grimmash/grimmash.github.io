@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Origin State: Blog Banter 61
+title: Origin State - Blog Banter 61
 date: 2014-12-08 21:58
 author: grimmash@gmail.com
 comments: true

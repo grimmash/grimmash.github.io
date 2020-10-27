@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Banter 76: Whither Flagships?
+title: Blog Banter 76 - Whither Flagships?
 date: 2016-06-13 20:43
 author: grimmash@gmail.com
 comments: true

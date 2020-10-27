@@ -1,6 +1,6 @@
 ---
 layout: post
-title: >HELLO WORLD
+title: HELLO WORLD
 date: 2011-11-09 20:37
 author: grimmash@gmail.com
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 6: 30 Day Market Challenge
+title: Day 6 of 30 Day Market Challenge
 date: 2012-04-18 03:21
 author: grimmash@gmail.com
 comments: true

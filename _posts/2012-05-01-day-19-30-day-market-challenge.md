@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 19: 30 Day Market Challenge
+title: Day 19 of 30 Day Market Challenge
 date: 2012-05-01 00:47
 author: grimmashauthor
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Fort: Dwarf Fortress 40 Playthrough Part 1
+title: A New Fort - Dwarf Fortress 40 Playthrough Part 1
 date: 2015-02-20 22:58
 author: grimmash@gmail.com
 comments: true

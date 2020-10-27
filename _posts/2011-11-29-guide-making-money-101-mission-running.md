@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guide: Making Money 101 – Mission Running
+title: Making Money 101 – Mission Running
 date: 2011-11-29 16:29
 author: grimmash@gmail.com
 comments: true

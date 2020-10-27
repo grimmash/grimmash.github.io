@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 28: 30 Day Market Challenge
+title: Day 28 of 30 Day Market Challenge
 date: 2012-05-09 23:23
 author: grimmashauthor
 comments: true

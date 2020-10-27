@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 3: 30 Day Market Challenge
+title: Day 3 of 30 Day Market Challenge
 date: 2012-04-14 23:00
 author: grimmash@gmail.com
 comments: true

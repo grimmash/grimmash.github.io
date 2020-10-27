@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 5: 30 Day Market Challenge
+title: Day 5 of 30 Day Market Challenge
 date: 2012-04-16 23:35
 author: grimmash@gmail.com
 comments: true

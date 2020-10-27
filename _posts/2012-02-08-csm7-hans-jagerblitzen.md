@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSM7: Hans Jagerblitzen
+title: CSM7 - Hans Jagerblitzen
 date: 2012-02-08 23:22
 author: grimmash@gmail.com
 comments: true

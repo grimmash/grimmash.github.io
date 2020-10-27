@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Fort: Ancientbrass Continues (Part Two)
+title: A New Fort - Ancientbrass Continues (Part Two)
 date: 2015-02-23 22:16
 author: grimmash@gmail.com
 comments: true

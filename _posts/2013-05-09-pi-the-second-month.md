@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PI: The Second Month
+title: PI - The Second Month
 date: 2013-05-09 03:31
 author: grimmashauthor
 comments: true

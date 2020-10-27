@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blobs:  An Aesthetic Quandry
+title: Blobs - An Aesthetic Quandry
 date: 2012-04-15 18:00
 author: grimmash@gmail.com
 comments: true

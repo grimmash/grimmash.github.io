@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Banter 33: More Options
+title: Blog Banter 33 More Options
 date: 2012-02-21 00:16
 author: grimmash@gmail.com
 comments: true

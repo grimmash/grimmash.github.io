@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 2: 30 Day Market Challenge
+title: Day 2 of 30 Day Market Challenge
 date: 2012-04-13 23:06
 author: grimmash@gmail.com
 comments: true

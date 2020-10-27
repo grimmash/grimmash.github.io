@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 4: 30 Day Market Challenge
+title: Day 4 of 30 Day Market Challenge
 date: 2012-04-15 22:51
 author: grimmash@gmail.com
 comments: true

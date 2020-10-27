@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 22: 30 Day Market Challenge
+title: Day 22 of 30 Day Market Challenge
 date: 2012-05-04 01:16
 author: grimmashauthor
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hero Siege: Non Sequitur Fun
+title: Hero Siege - Non Sequitur Fun
 date: 2015-01-15 20:46
 author: grimmash@gmail.com
 comments: true

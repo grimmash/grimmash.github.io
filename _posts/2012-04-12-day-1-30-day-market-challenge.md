@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1: 30 Day Market Challenge
+title: Day 1 of 30 Day Market Challenge
 date: 2012-04-12 22:42
 author: grimmash@gmail.com
 comments: true

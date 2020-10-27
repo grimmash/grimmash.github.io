@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 13: 30 Day Market Challenge
+title: Day 13 of 30 Day Market Challenge
 date: 2012-04-24 23:41
 author: grimmashauthor
 comments: true

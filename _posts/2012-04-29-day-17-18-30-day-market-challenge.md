@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 17 & 18: 30 Day Market Challenge
+title: Day 17 and 18 of 30 Day Market Challenge
 date: 2012-04-29 23:11
 author: grimmashauthor
 comments: true

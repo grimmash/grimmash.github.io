@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guide: Frigates and You
+title: Frigates and You
 date: 2011-11-09 20:49
 author: grimmash@gmail.com
 comments: true

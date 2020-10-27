@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 15:  30 Day Market Challenge (With Charts and Stuff)
+title: Day 15 of  30 Day Market Challenge (With Charts and Stuff)
 date: 2012-04-27 03:11
 author: grimmashauthor
 comments: true

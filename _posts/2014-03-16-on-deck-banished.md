@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Deck: Banished
+title: On Deck - Banished
 date: 2014-03-16 02:21
 author: grimmash@gmail.com
 comments: true

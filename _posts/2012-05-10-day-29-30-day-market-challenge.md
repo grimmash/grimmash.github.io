@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 29: 30 Day Market Challenge
+title: Day 29 of 30 Day Market Challenge
 date: 2012-05-10 23:03
 author: grimmashauthor
 comments: true

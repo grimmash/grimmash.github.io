@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 20: 30 Day Market Challenge
+title: Day 20 of 30 Day Market Challenge
 date: 2012-05-02 04:48
 author: grimmashauthor
 comments: true

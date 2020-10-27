@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forum: Industrial Might
+title: Forum - Industrial Might
 date: 2011-12-06 01:03
 author: grimmash@gmail.com
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KOTM: Turberfield Edition
+title: KOTM Turberfield Edition
 date: 2012-02-06 16:04
 author: grimmash@gmail.com
 comments: true

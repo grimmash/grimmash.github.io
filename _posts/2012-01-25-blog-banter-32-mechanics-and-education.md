@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Banter 32: Mechanics and Education
+title: Blog Banter 32 - Mechanics and Education
 date: 2012-01-25 21:02
 author: grimmash@gmail.com
 comments: true

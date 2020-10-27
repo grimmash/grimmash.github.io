@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guide: Skill Planning
+title: Skill Planning
 date: 2012-01-30 19:34
 author: grimmash@gmail.com
 comments: true

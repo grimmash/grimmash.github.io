@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mass Effect 3: A Lesson in Player Investment
+title: Mass Effect 3 - A Lesson in Player Investment
 date: 2012-03-22 02:34
 author: grimmash@gmail.com
 comments: true
