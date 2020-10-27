@@ -4,7 +4,7 @@ title: Kingdom Death Monster - Unarmored Survivor Head Build
 date: 2018-03-03 17:45
 author: grimmash@gmail.com
 comments: true
-categories: [Kingdom Death: Monster, Modeling]
+categories: [Kingdom Death Monster, Modeling]
 ---
 Long time no write.&nbsp; Anyhow, I backed the reprint of KD:M and have been slowly building out models.&nbsp; Most of the monster and armor sets are fairly straight forward to build.&nbsp; You can check out <a href="http://www.vibrantlantern.com">www.vibrantlantern.com</a> or <a href="http://build.kingdomdeath.com">build.kindgomdeath.com</a> to get visual instructions for most things.&nbsp; Generally the builds are not hard, but rather tedious given the scale and detail.&nbsp; Damn those Phoenix hands, though.
 
