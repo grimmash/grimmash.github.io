@@ -14,7 +14,7 @@ There are seven total pieces in the head. One face, one hair mane, and then five
 
 Below is the head sprue. I circled the mane, labeled A. The face is already trimmed, sorry, but it will be fairly obvious which one it is as it has a two-level fit to the mane. I've labeled the curls A, B, C, D, and E. Yeah, I messed up and called the mane and a curl both A, but whatever.
 
-![The main sprue. I've already removed a lot of items.](2018/03/01_Sprue-1024x681.jpg)
+![The main sprue. I've already removed a lot of items.](wp_assets/2018/03/01_Sprue-1024x681.jpg)
 
 You can glue the face to the mane before doing anything else, it really doesn't matter and may even make the side curls easier. Test fit all of these curls before applying glue. I recommend using plastic cement so you can toy with the pieces, a tweezer and something long and hard (like a model file) to fine tune the fit once you get the piece in.
 
