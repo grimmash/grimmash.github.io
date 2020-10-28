@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Return to Tabletop
-date: 2020-10-27 23:45
+date: 2020-10-27 23:40
 author: grimmash@gmail.com
 comments: true
 categories: [5e, tabletop]
