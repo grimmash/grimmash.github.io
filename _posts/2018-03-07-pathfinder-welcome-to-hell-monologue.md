@@ -6,19 +6,19 @@ author: grimmash@gmail.com
 comments: true
 categories: [Pathfinder]
 ---
-My group playing Rise of the Runelords didn't fall apart, but we did go on permanent hiatus from that campaign due to life, kids, etc.&nbsp; So of course I decided to start my own campaign.&nbsp; Early on it featured a monologue explaining to the characters why they suddenly found themselves in Hell.&nbsp; I enjoyed writing and reading it, so I'll share it here.&nbsp; The voice was a tired, frumpy British judge.&nbsp; Think one of the legal farces from Monty Python or Discworld.
+My group playing Rise of the Runelords didn't fall apart, but we did go on permanent hiatus from that campaign due to life, kids, etc. So of course I decided to start my own campaign. Early on it featured a monologue explaining to the characters why they suddenly found themselves in Hell. I enjoyed writing and reading it, so I'll share it here. The voice was a tired, frumpy British judge. Think one of the legal farces from Monty Python or Discworld.
 
 For any real lore sticklers, I'm playing fast and loose, so don't get your neckbeards in a bunch.
 
-<hr>
+----------
 
-The court of the ninety sixth office, twenty seventh circuit, first division, second domain is now in session, presided by myself, Vice Deputy Lieutenant Magistrate Bristlethwaite, Non-Provisional and Plenary. The case before the court concern the shamash devil Xulmazan, commonly known as Genevieve, defendant, and &lt;HERO NAMES&gt;, plaintiffs.
+The court of the ninety sixth office, twenty seventh circuit, first division, second domain is now in session, presided by myself, Vice Deputy Lieutenant Magistrate Bristlethwaite, Non-Provisional and Plenary. The case before the court concern the shamash devil Xulmazan, commonly known as Genevieve, defendant, and <HERO NAMES>, plaintiffs.
 
 In the interest of expedient remediation and processing, this hearing will adjudicated multiple related cases as part of one judgement.
 
 First, the case against Xulmazan: On 26 Calistri, 4706 Absalom Reckoning, in the calendar of the plaintiffs, Xulmazan is accused of the following crimes: Dereliction of Responsibility, 1 count, Release of Duly Incarcerated Souls, 54 counts, Negligent Taking of Mortal Souls, 246 counts, Aiding Unsanctioned Destruction of Souls, 238 counts.
 
-Evidence. Xulmazan, acting as a warden of the fifth prison of Dis, was negligent in conducting her duties during a scheduled prisoner transport. As a result of this negligence, one greater demon escaped containment, and 53 lesser demons were either freed or summoned in the ensuing events. The greater demon fled to the material plane, and consumed the souls of 194 mortals. Lesser demons consumed the souls of 44 mortals. An additional &lt;player party count&gt; mortals were killed, but their souls were not consumed. Defendant did attempt to recapture the escaped demon, but her host vessel was mortally wounded on the material plane.
+Evidence. Xulmazan, acting as a warden of the fifth prison of Dis, was negligent in conducting her duties during a scheduled prisoner transport. As a result of this negligence, one greater demon escaped containment, and 53 lesser demons were either freed or summoned in the ensuing events. The greater demon fled to the material plane, and consumed the souls of 194 mortals. Lesser demons consumed the souls of 44 mortals. An additional <player party count> mortals were killed, but their souls were not consumed. Defendant did attempt to recapture the escaped demon, but her host vessel was mortally wounded on the material plane.
 
 Based on the events of 26 Calistri, the court has dispensed with a formal trial as the evidence has been corroborated in Hell, via representatives from the Court of Pharasma, and multiple other jurisdictions. For these crimes Xulmazan has been found guilty without appeal. Given that Xulmazan was merely derelict in her duties as a warden, which led to the Taking and Destruction charges, and not willfully acting to cause the crimes committed, leniency has been considered in sentencing. The sentence is repayment of the souls destroyed, with applicable interest for the time taken.
 
