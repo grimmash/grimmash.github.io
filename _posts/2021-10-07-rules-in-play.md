@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling with Intent
-date: 2021-10-05 12:03
+date: 2021-10-07 11:19
 author: grimmash@gmail.com
 comments: true
 categories: [ttrp, dnd5e]
