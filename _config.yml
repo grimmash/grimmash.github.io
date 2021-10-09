@@ -34,7 +34,8 @@ github_username:  grimmash
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -54,3 +55,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+remote_theme: pages-themes/midnight@v0.2.0
