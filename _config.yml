@@ -31,7 +31,7 @@ github_username:  grimmash
 #remote_theme: b2a3e8/jekyll-theme-console
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
