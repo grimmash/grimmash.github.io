@@ -37,6 +37,7 @@ So let's go!  I will give lists of the software and hardware I use.  Then I'll g
 - Four monitors:
   - One 3440x1440 Ultrawide (DM Screen)
   - Three 1920x1080 displays
+
 ---
 <h2>Software Overview</h2>
 
