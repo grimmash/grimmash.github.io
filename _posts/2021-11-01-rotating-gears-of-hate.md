@@ -67,11 +67,11 @@ Now for the scary part.  We are going to do some coding.  We will make five `mac
     token3 = canvas.tokens.placeables.find(t => t.data.name === "Gear3");
 
     (async ()=>{
-  if(!token1 || !token2 || !token3) return;
+      if(!token1 || !token2 || !token3) return;
 
-  await token1.update({ rotation : 1 });
-  await token2.update({ rotation : 1 });
-  await token3.update({ rotation : 1 });
+      await token1.update({ rotation : 1 });
+      await token2.update({ rotation : 1 });
+      await token3.update({ rotation : 1 });
     })();
     ```
     Here is an image:
@@ -84,8 +84,7 @@ Now for the scary part.  We are going to do some coding.  We will make five `mac
     let
     token1 = canvas.tokens.placeables.find(t => t.data.name === "Gear1")
     ```
-    This code is is creating a variable in the script that is assigning the token1 value to your first character.
-
+    This code is creating a variable in the script that is assigning the token1 value to your first character.
     ```
     (async ()=>{
       if(!token1 || !token2 || !token3) return;
@@ -95,7 +94,6 @@ Now for the scary part.  We are going to do some coding.  We will make five `mac
       await token3.update({ rotation : 1 });
     ```
     This section is setting the token rotation for each token to the degree specific in `rotation : 1`.  In this case, the rotation is 1 degree (out of 360).
-
 6. Where I wrote "Gear1", "Gear2", "Gear3", replace with your own names for the `characters` and the `controller` you created and set earlier.
 7. Save the `macro`
 8. Drag that `macro` into the `Compendium` I told you to make so you can find it again if you need to.
