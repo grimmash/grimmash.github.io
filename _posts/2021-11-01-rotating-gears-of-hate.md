@@ -23,7 +23,7 @@ Let's get started!
 - **Map Art** with *tiles* for the gears
 - A little bit of **patience**
 
-You absolutely need some copy of a map, and art assets to use as gears.  In my photos I am using a map under development by a fellow DM.  Come find us in the ToA Discord if you want to know more.  Multiple version of art have been posted there that should work for this.  Otherwise, you can use an image editor of your cchoice to cut our the gears from the map to create your own assets.
+You absolutely need some copy of a map, and art assets to use as gears.  In my photos I am using a map under development by a fellow DM.  Come find us in the ToA Discord if you want to know more.  Multiple version of art have been posted there that should work for this.  Otherwise, you can use an image editor of your choice to cut out the gears from the map to create your own assets.
 
 # Building the Rotating Gears
 
@@ -32,7 +32,7 @@ You absolutely need some copy of a map, and art assets to use as gears.  In my p
 3. Place `tokens` for those characters on the map, preferably somewhere outside the `walls` where the PCs could ever see them.  You could also just hide them, but I like having them off on the far side of the map.
 4. Use the `Drawing` tool to create a `circle` around your first gear.  This circle needs to completely enclose the `walls` of a given gear without the `walls` passing through the circle.  See the image below for an example:
 
-![How to draw the circles](/media_assets/gears_of_hate/1_circles.png)
+    ![How to draw the circles](/media_assets/gears_of_hate/1_circles.png)
 
 5. Double click the circle `drawing` object to bring up the object's menu, and navigate to the `Vehicles` tab
 6. Set the following options:
@@ -57,7 +57,6 @@ Now for the scary part.  We are going to do some coding.  We will make five `mac
 3. Set the `name` to "Gear 1" or something like that.
 4. Set `Type` to `script`
 5. Paste the code below in:
-
     Each macro will follow this pattern:
 
     ```
@@ -74,7 +73,7 @@ Now for the scary part.  We are going to do some coding.  We will make five `mac
       await token3.update({ rotation : 1 });
     })();
     ```
-    Here is an image:
+    Here is an image, using names and variables from my game that don't 100% match my examples here:
 
     ![Sample Macro](/media_assets/gears_of_hate/2_macro.png)
 
@@ -130,6 +129,6 @@ And that is it!  You should now have five `macros` that let you cycle the positi
 
 # Troubleshooting
 
-If something is not working right, check each step from the beginning.  It may take a few tries to get this right.  I had to try about 3 times to get it all working.  I ran into issues at most steps, and have tried to explain as much as I can here.  If you get stuck, wither take a break an/or just start over. Test this before you use it, and if you add sound, test as a player!
+If something is not working right, check each step from the beginning.  It may take a few tries to get this right.  I had to try about 3 times to get it all working.  I ran into issues at most steps, and have tried to explain as much as I can here without going into insane depth.  If you get stuck, either take a break an/or just start over. Test this before you use it, and if you add sound, test as a player!
 
 Good luck and have fun!
