@@ -163,10 +163,10 @@ After the two entrance doors, the pit trap, and depending on how your party is d
 
 The Devil Face is a foreshadowing of how these green skulls almost always mean bad news.
 
-## 6.
+## 6. Crystal Window
 This is a window.  I got nothing.
 
-## 7.
+## 7. Grand Staircase
 This is a staircase.  There are many like it, but this one is Acerarak's.  More seriously, the warning plaques are all here, one per floor. See above, make sure you make the players aware of these.
 
 ## 8. Magical Attraction
