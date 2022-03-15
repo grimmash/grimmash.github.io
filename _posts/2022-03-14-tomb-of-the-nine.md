@@ -205,7 +205,7 @@ I love these chests.  Kill your players,  or hurt them real bad.  Have fun!  If 
 Can the mummy get out?  A mummy has a walking speed of 20 and no climb speed... and the pit is 20 feet deep.  So if someone breaks the sarcophagus from above, or they get in a fight and get out, or anything leaves the mummy in the pit... it just stays there.  Maybe give is a climb speed of 30 and call it a day.
 
 ## 17. Underground Waterfall
-What happens if the party or a single PC fall to floor 5?  You need to know how to handle that sequence break, in case it comes up.  See my comments on floor 5 and "Leeroy" in particular.  If you are feeling nasty, I'd just tear up the character sheet, then bring the (N)PC back as a thrall of the aboleth later.  If you want to be nice, I am still unsure how you get a PC back up without a whole lot of sequence breaking action.  It might also split the party in a not fun way.
+What happens if the party or a single PC fall to floor 5?  You need to know how to handle that sequence break, in case it comes up.  See my comments on floor 5 and "Leeroy" in particular.  If you are feeling nasty, I'd just tear up the character sheet, then bring the (N)PC back as a thrall of the aboleth later.  If you want to be nice, I am still unsure how you get a PC back up without a whole lot of sequence breaking action.  It might also split the party in a not fun way.  *Edit: You can climb back up.*
 
 I'd recommend jumping down to areas 64 and 65 and reading those, and check out my comments for floor 5 about the aboleth down there.
 
@@ -288,7 +288,7 @@ For the record, there are two distinct safe paths that branch off the initial pa
 Questions to consider:
 - Can sovereign glue or other methods seal the mouths of the sphinxes, thereby preventing the locust swarms?
 - How is a PC going to realize they can communicate telepathically from the peephole to the PC(s) in the puzzle room?
-- Does the trap end once the correct sequence is found, or do the players have to retrace their steps, or what?  
+- Does the trap end once the correct sequence is found, or do the players have to retrace their steps, or what?  *EDIT: It does end per page 150 in the book.*
 - What happens if your PCs start destroying the medallion and disc contraption?
 
 ## 36. Chamber of Respite
@@ -438,7 +438,7 @@ Bonus Points: Have Withers use the PA system to explain this is Ace's Throne, an
 
 ## 53. Crypt of the Sun Queen
 This room can really hurt if the party is damaged.  It can also kill low HP NPCs very easily.  It is also another room where you want to read it through a few times so you really understand how the various traps activate.  Things of note:
-- The key is for the grandfather clock beyond Unkh's Tomb
+- The key is for the secret chamber in area 62b. Stone Juggernaut
 - The *necklace of fireballs* is hilarious fun or a deathtrap, depending on who picks it up and puts it on
 - The sceptre is useful on the next floor, but you need to hammer home the NAPAKA connection
 
