@@ -9,7 +9,9 @@ categories: [ttrp, dnd5e]
 
 This is a spoiler post for Tomb of Annihilation!
 
-Many people have talked about unique strategies in the final fight of the Tomb of the Nine Gods.  One I particularly love is the idea of putting Reverse Gravity on Ace's spell list, and then casting it.  Let's get some basics out of the way.  The room itself is described with the following features:
+Many people have talked about unique strategies in the final fight of the Tomb of the Nine Gods.  One I particularly love is the idea of putting Reverse Gravity on Ace's spell list, and then casting it.  
+
+Let's get some basics out of the way.  The room itself is described with the following features:
 
 - The room is a 30 foot high vault, shaped like a triangle
 - The room has a 10 foot ledge on the north side, forming one side of the triangle
@@ -38,12 +40,12 @@ Duration: Concentration, up to 1 minute
 
 The spell has a radius of 50 feet, or a sphere of 100 foot diameter, so if we center it in the lava, it covers the whole prism.  Vertically, if you want to capture the whole air space and the lava, we can catch approximately 40 feet of the lava column and all 60 feet of air upt to just about the ceiling.
 
-So what happens when Ace casts this spell?  Let's assume he is smart enough to get on one of the balconies and not get caguht in the area of effect himself.  He inverts a prism of lava that is 80 x 65 x 40 feet.  Any PC will first take damage from 30 feet of falling when they hit the ceiling.  Then they will take another set of falling damage from the lava.  This should be 60 feet of falling damage, per the spell.  Then they take the fire damage.  So on round one, that is a total of:
+So what happens when Ace casts this spell?  Let's assume he is smart enough to get on one of the balconies and not get caught in the area of effect himself.  He inverts a prism of lava that is 80 x 65 x 40 feet.  Any PC will first take damage from 30 feet of falling when they hit the ceiling.  Then they will take another set of falling damage from the lava.  This should be 60 feet of falling damage, per the spell.  Then they take the fire damage.  So on round one, that is a total of:
 - 3d6 bludgeoning damage from the "fall" into the ceiling
 - 6d6 bludgeoning damage from the lava hitting them (I think this is WAAAAY to little, but let's go with it)
 - 10d10 fire damage from entering the lava
 
-Now if the Soulmonger truts are still there, you may be asking "What if they grab the struts?!"  Just remove the first line of damage, and adjust the lava hitting them to 3d6 instead of 6d6.
+Now if the Soulmonger struts are still there, you may be asking "What if they grab the struts?!"  Just remove the first line of damage, and adjust the lava hitting them to 3d6 instead of 6d6.
 
 That is a rough first round.  But it gets better!  Now the PCs have that column of lava above them, about 40 feet of it.  A little less due to the ceiling being wider than the lava pit, but lets just work with the volume of the lava.
 
@@ -57,8 +59,10 @@ or
 
 That comes out to 104,000 cubic feet.  If we convert that to cubic meters we get 2,944 cubic meters.  Numbers on the density of lava are pretty variable, but a mid range number is 2,500 kg per cubic meter.  That means that column of lava that just got dropped on the PCs weighs 7,360,000 kg, or  16,226,022 pounds, to get back to DnD numbers.
 
-So now the PCs have 7.36 metric tons of lava above them.  I think we can count that as difficult terrain, perhaps?  You may also be asking what about the PCs that made their saves back when the pseppl was cast?  Those PCs are still 10 feet under the surface of the lava that now extends 40 feet from the ceiling.
+So now the PCs have 7,360 metric tonnes of lava above them.  Or 8,113 freedom tons.   I think we can count that as difficult terrain, perhaps?  You may also be asking what about the PCs that made their saves back when the spell was cast?  Those PCs are still 10 feet under the surface of the lava that now extends 40 feet from the ceiling.  Using our napkin maths, they still have a quarter or that lava volume between their faces and clear air.
 
-This is where the dmage numbers have to depart from normal play.  I assume you apply the fire damage every turn.  How to you apply the crushing/bludgeoning damage though?  Can the PCs swim up out of the lava?  
+This is where the damage numbers have to depart from normal play.  I assume you apply the fire damage every turn.  How to you apply the crushing/bludgeoning damage though?  Can the PCs swim up out of the lava?  Each round is doing at least 10d10 fire damage, and this can last for 10 rounds!
+
+If you want to go full sicko mode, you could also contrive a way for the PCs to get out... and then have Ace drop the spell.  So you run the first round of damage all over again, and now the PCs have lava on both sides of them!
 
 I would assume, applying normal logic, the PCs get crushed and melted under the lava, and Ace gets back to whatever nefarious plan he had going before those pesky adventurers showed up.  
